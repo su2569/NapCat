@@ -1,1 +1,0 @@
-foreach ($p in "https://ghfast.top/", "https://ghproxy.net/", "") { try { Invoke-WebRequest -Uri "${p}https://raw.githubusercontent.com/NapNeko/NapCat-Installer/main/script/install.ps1" -OutFile ./install.ps1 -UseBasicParsing; break } catch {} }
