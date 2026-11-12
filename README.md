@@ -90,5 +90,5 @@ _Modern protocol-side framework implemented based on NTQQ._
 > - 本仓库为 NapCat 相关资源的备份存档（非官方 Fork 仓库），主仓库 [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) 已宣布 Ending，README Ending 一节以主仓库原文"到这里告一段落。"收尾。
 > - 最终版本：**NapCatQQ v4.18.42**（Release 及全部附件已在本仓库 Release 存档）
 > - NapCatQQ-Desktop 最终版本 **v3.5.20**，原仓库已转移至 [AQiaoYo/NapCatQQ-Desktop](https://github.com/AQiaoYo/NapCatQQ-Desktop)
-> - 附带仓库（Docs / Docker / Installer / CLI / Termux）源码一并存档于 `源码/` 目录
+> - 7 个仓库（NapCatQQ / Desktop / Docs / Docker / Installer / CLI / Termux）源码在根目录各自独立文件夹存档
 > - 源码为主仓库 HEAD 最终提交的干净导出（不含 git 历史）
