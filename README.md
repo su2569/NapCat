@@ -74,6 +74,8 @@ _Modern protocol-side framework implemented based on NTQQ._
 ## Ending
 如果感兴趣可以自行Fork，不再提供除版本更新以外内容，直到失效，如果追求稳定性更推荐官方Bot，非常感谢一路陪伴。
 
+到这里告一段落。
+
 ## License
 
 本项目采用 混合协议 开源，因此使用本项目时，你需要注意以下几点：
@@ -85,7 +87,7 @@ _Modern protocol-side framework implemented based on NTQQ._
 **本仓库仅用于提高易用性，实现消息推送类功能，此外，禁止任何项目未经仓库主作者授权基于 NapCat 代码开发。使用请遵守当地法律法规，由此造成的问题由使用者和提供违规使用教程者负责。**
 
 > **📌 存档状态更新（2026-11-12）**
-> - 本仓库为 NapCat 相关资源的备份存档（非官方 Fork 仓库），主仓库 [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) 已宣布 Ending，README 仅保留上述告一段落声明。
+> - 本仓库为 NapCat 相关资源的备份存档（非官方 Fork 仓库），主仓库 [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) 已宣布 Ending，README Ending 一节以主仓库原文"到这里告一段落。"收尾。
 > - 最终版本：**NapCatQQ v4.18.42**（Release 及全部附件已在本仓库 Release 存档）
 > - NapCatQQ-Desktop 最终版本 **v3.5.20**，原仓库已转移至 [AQiaoYo/NapCatQQ-Desktop](https://github.com/AQiaoYo/NapCatQQ-Desktop)
 > - 附带仓库（Docs / Docker / Installer / CLI / Termux）源码一并存档于 `源码/` 目录
